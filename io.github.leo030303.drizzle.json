@@ -39,8 +39,8 @@
                 {
                     "type": "git",
                     "url": "https://github.com/leo030303/drizzle.git",
-                    "tag": "0.1.0",
-                    "commit": "2fbecbec7773af51370c1440a4243d23843e9791"
+                    "tag": "0.1.1",
+                    "commit": "416589d4067e0a2c249e3c92a472ba1897e64c6e"
                 },
                 "cargo-sources.json",
                 {
